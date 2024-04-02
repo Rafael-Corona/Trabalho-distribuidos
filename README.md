@@ -20,3 +20,5 @@ Repositório do trabalho da disciplina SSC0904 - Sistemas Computacionais Distrib
 
 ## Modelagens UML
 
+[Diagrama de Casos de Uso](https://drive.google.com/file/d/1ioGHGqNM8H_yO4DhUaEkyjwNdziP3VYu/view?usp=drive_link)
+
